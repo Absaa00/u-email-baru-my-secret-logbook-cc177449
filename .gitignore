@@ -1,0 +1,13 @@
+# Logbook hygiene: diary drafts and interpreter litter stay out of git.
+# (This ignore list is written for this entry only.)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+drafts/
+scratch-diary.txt
+*.log
+.output/
+.venv/
